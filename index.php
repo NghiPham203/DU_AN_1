@@ -17,5 +17,5 @@
     }else{
         header("location:index.php?mod=page&act=home");
     }
-    
+  
 ?>
