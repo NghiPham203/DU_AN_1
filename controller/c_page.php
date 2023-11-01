@@ -1,5 +1,6 @@
 <?php
     include_once 'config.php';
+    include_once 'model/m_page.php';
 
     if(isset($_GET['act']) && ($_GET['act']!="")){
         switch ($_GET['act']) {

@@ -1,5 +1,5 @@
-<!-- Categories Section Begin -->
-<section class="categories">
+    <!-- Categories Section Begin -->
+    <section class="categories">
         <div class="container">
             <div class="row">
                 <div class="categories__slider owl-carousel">
@@ -219,6 +219,8 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat">
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg" data-setbg="view/img/featured/feature-1.jpg">
+                            <div class="product__discount__percent_home">-20%</div>
+                        <div class="product__discount__percent_home">-20%</div>
                             <ul class="featured__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -234,6 +236,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg" data-setbg="view/img/featured/feature-2.jpg">
+                            <div class="product__discount__percent_home">-20%</div>
                             <ul class="featured__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -249,6 +252,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fresh-meat">
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg" data-setbg="view/img/featured/feature-3.jpg">
+                            <div class="product__discount__percent_home">-20%</div>
                             <ul class="featured__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -264,6 +268,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix fastfood oranges">
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg" data-setbg="view/img/featured/feature-4.jpg">
+                            <div class="product__discount__percent_home">-20%</div>
                             <ul class="featured__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -279,6 +284,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix fresh-meat vegetables">
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg" data-setbg="view/img/featured/feature-5.jpg">
+                            <div class="product__discount__percent_home">-20%</div>
                             <ul class="featured__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -294,6 +300,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix oranges fastfood">
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg" data-setbg="view/img/featured/feature-6.jpg">
+                            <div class="product__discount__percent_home">-20%</div>
                             <ul class="featured__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -309,6 +316,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix fresh-meat vegetables">
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg" data-setbg="view/img/featured/feature-7.jpg">
+                            <div class="product__discount__percent_home">-20%</div>
                             <ul class="featured__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -324,6 +332,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix fastfood vegetables">
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg" data-setbg="view/img/featured/feature-8.jpg">
+                            <div class="product__discount__percent_home">-20%</div>
                             <ul class="featured__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
