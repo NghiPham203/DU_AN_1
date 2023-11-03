@@ -929,7 +929,15 @@ ol {
 	text-align: center;
 	padding-top: 15px;
 }
-
+.featured__item__text_MX{
+	display: flex;
+	justify-content: center;
+	padding-top: 15px;
+}
+.featured__item__text_MX h6{
+	padding: 0 5px;
+	
+}
 .featured__item__text h6 {
 	margin-bottom: 10px;
 }
@@ -2912,12 +2920,16 @@ ol {
 	font-size: 18px;
 	letter-spacing: 2px;
 }
-
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 
 @media only screen and (min-width: 1200px) {
 	.container {
 		max-width: 1170px;
+		margin: 0 auto;
 	}
 }
 

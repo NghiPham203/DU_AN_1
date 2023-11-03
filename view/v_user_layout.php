@@ -157,10 +157,9 @@
                                 <span>Danh mục Organic</span>
                             </div>
                             <ul>
-                                <li><a href="#">Thịt tươi sống</a></li>
-                                <li><a href="#">Rau củ</a></li>
-                                <li><a href="#">Trái Cây</a></li>
-                                <li><a href="#">Thực phẩm đại dương</a></li>
+                                <?php foreach($getdanhmuc as $dm):?>
+                                    <li><a href="#"><?=$dm['TenDM']?></a></li>
+                                <?php endforeach; ?>
                             </ul>
                         </div>
                     </div>

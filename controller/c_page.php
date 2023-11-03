@@ -5,6 +5,11 @@
     if(isset($_GET['act']) && ($_GET['act']!="")){
         switch ($_GET['act']) {
             case 'home':
+                $getdanhmuc = danhmuc_getAll();
+                $getproNew = page_productNew();
+                $getDiscount = page_productDiscount();
+                $getLuotMua = page_productLuotMua();
+                $getLuotXem = page_productLuotXem();
                 $view_name = "page_home";
                 break;
             
